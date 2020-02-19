@@ -1,4 +1,9 @@
+
+Train in Colab:
 <a href="https://colab.research.google.com/github/mfts/qualcomm-contest/blob/master/SpaceInvaders_Baseline.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Run the evaluation in Colab:
+<a href="https://colab.research.google.com/github/mfts/qualcomm-contest/blob/master/SpaceInvaders_Evaluation_Template.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # Weights & Biases x Qualcomm - SpaceInvaders Challenge
 
