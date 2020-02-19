@@ -1,0 +1,25 @@
+{
+    "root": "/content",
+    "program": "<python with no main file>",
+    "colab": "https://colab.research.google.com/drive/1FO4bxZfqe-OlgKBYFY7WO7_lUnO5wlXX",
+    "startedAt": "2020-02-19T00:08:33.249681",
+    "host": "e50231ccd8dd",
+    "username": "root",
+    "executable": "/usr/bin/python3",
+    "os": "Linux-4.14.137+-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.6.9",
+    "gpu": "Tesla T4",
+    "gpu_count": 1,
+    "cpu_count": 2,
+    "cuda": "10.0.130",
+    "args": [
+        "-f",
+        "/root/.local/share/jupyter/runtime/kernel-f5af43e3-240d-4835-9810-3625aa72681d.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "apricot-fire-21",
+    "project": "spaceinvaders-challenge",
+    "heartbeatAt": "2020-02-19T00:17:09.330135"
+}

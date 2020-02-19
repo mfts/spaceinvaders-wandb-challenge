@@ -1,0 +1,23 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.8.27
+    is_jupyter_run: true
+    python_version: 3.6.9
+batch_size:
+  desc: null
+  value: 32
+episodes:
+  desc: null
+  value: 100
+epsilon_decay:
+  desc: null
+  value: 0.995
+epsilon_min:
+  desc: null
+  value: 0.01
+learning_rate:
+  desc: null
+  value: 0.003
