@@ -184,7 +184,7 @@ llvmlite==0.31.0
 lmdb==0.98
 lucid==0.3.8
 lunardate==0.2.0
-lxml==4.2.6
+lxml==4.6.2
 magenta==0.3.19
 markdown==3.2.1
 markupsafe==1.1.1
